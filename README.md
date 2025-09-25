@@ -6,34 +6,5 @@ The objective of the project is to develop and evaluate a ML-based classificatio
 
 
 DATASET DETAILS
-
-Link: https://www.kaggle.com/datasets/teamincribo/stroke-prediction?select=stroke_prediction_dataset.csv
-
-The dataset used is the "stroke prediction dataset" (INCRIBO, Kaggle) which has 21 input features + target (EX: age, hypertension, bmi, glucose levels). The target is the 'stroke' column. The dataset consists of 15,000 records in tabular form with a mix of categorical and numerical features. It contains diverse feature types (lifestyle, clinical, demographic), real-world relevance in healthcare, data quality and simplicity and aligns with the problem statement and project requirements.
-
-One of the main issues is the presence of missing values which we aim to tackle in the Machine Learning Pipeline, along with data cleaning, encoding, scaling, and data splitting (for training and testing).
-
-
-GROUP MEMBERS
-1. Handle Missing Data  -  Arif F.  
-2. Encode Categorical Variables  -  Perera J. M. C. S.  
-3. Outlier Detection & Removal  -  Kothalawala K. P.
-4. Normalization/Scaling  -  Kavindi R. D. K. 
-5. Feature Engineering (Blood Pressure & Cholesterol)  -  Darmasena O. K. M. S. 
-6. Feature Engineering (Symptoms)  -  Dias A. A. L. 
-
-
-HOW TO RUN CODE
-- On Jupyter Notebook  
-- Libraries used: pandas, numpy, matplotlib, seaborn, scikit-learn 
-
-1. Unzip the folder.
-2. Navigate to `notebooks/`.
-3. To view individual contribution, open the notebook that corresponds to a members number.
-4. To see the full pipeline, open `group_pipeline.ipynb`.
-5. Outputs, cleaned dataset, and EDA visualizations are saved in the `results/` folder.  
-
-Each group member contributed to one preprocessing technique.  
-The final group pipeline was built by combining individual contributions.  
-
+Link: https://www.kaggle.com/datasets/teamincribo/stroke-prediction?select=stroke_prediction_dataset.csv  
 
