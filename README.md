@@ -13,7 +13,7 @@ One of the main issues is the presence of missing values which we aim to tackle 
 
 
 GROUP MEMBERS
-1. Handle Missing Data  -  Arif F.  -  IT24102506
+1. Handle Missing Data  -  Arif R.  -  IT24102506
 2. Encode Categorical Variables  -  Perera J. M. C. S.  -  IT24103891
 3. Outlier Detection & Removal  -  Kothalawala K. P.  -  IT24103969
 4. Normalization/Scaling  -  Kavindi R. D. K.  -  IT24103138
@@ -33,4 +33,5 @@ HOW TO RUN CODE
 
 Each group member contributed to one preprocessing technique.  
 The final group pipeline was built by combining individual contributions.  
+
 
